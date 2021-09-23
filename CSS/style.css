@@ -1,0 +1,25 @@
+section{
+    background-color: gray  ;
+    font-weight: bold;
+
+}
+
+section:nth-of-type(2){
+color: lawngreen;
+
+}
+
+
+section > h2 {
+    font-weight: bold;
+}
+
+li:first-child{
+    background-color: green;
+}
+
+a:hover {
+
+    color:lawngreen
+
+}
